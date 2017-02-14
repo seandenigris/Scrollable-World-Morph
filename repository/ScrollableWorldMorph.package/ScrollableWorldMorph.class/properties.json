@@ -1,0 +1,14 @@
+{
+	"category" : "ScrollableWorldMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 9/17/2014 23:17",
+	"instvars" : [
+		"viewport" ],
+	"name" : "ScrollableWorldMorph",
+	"pools" : [
+		 ],
+	"super" : "PasteUpMorph",
+	"type" : "normal" }
