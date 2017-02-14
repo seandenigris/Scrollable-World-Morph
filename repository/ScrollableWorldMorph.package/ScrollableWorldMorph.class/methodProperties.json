@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"addMorph:" : "SeanDeNigris 4/29/2015 11:14",
 		"centerMorph:" : "SeanDeNigris 4/23/2015 14:10",
 		"handlesMouseWheel:" : "SeanDeNigris 3/8/2015 23:21",
 		"initialize" : "SeanDeNigris 10/2/2014 16:02",
