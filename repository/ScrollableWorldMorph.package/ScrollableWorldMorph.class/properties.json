@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "SeanDeNigris 9/17/2014 23:17",
+	"commentStamp" : "SeanDeNigris 9/25/2014 15:58",
 	"instvars" : [
 		"viewport" ],
 	"name" : "ScrollableWorldMorph",

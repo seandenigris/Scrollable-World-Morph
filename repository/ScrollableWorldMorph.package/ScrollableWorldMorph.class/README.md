@@ -1,8 +1,3 @@
-self new
-	openInWindow;
-	inspect.
-	
-self scrollUpBy: 10.
-self scrollDownBy: 10.
-self scrollLeftBy: 10.
-self scrollRightBy: 10.
+I am the starting point for Living Code. Use the arrow keys to scroll around me.
+
+self new open.
