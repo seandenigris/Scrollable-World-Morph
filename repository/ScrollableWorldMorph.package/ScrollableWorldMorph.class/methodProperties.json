@@ -1,8 +1,12 @@
 {
 	"class" : {
+		"menuCommandOn:" : "SeanDeNigris 9/25/2014 17:08",
 		"open" : "SeanDeNigris 9/25/2014 15:52" },
 	"instance" : {
-		"initialize" : "SeanDeNigris 9/25/2014 14:07",
+		"initialize" : "SeanDeNigris 9/25/2014 17:46",
+		"mouseDown:" : "SeanDeNigris 9/25/2014 17:45",
+		"mouseMove:" : "SeanDeNigris 9/25/2014 17:42",
+		"mouseUp:" : "SeanDeNigris 9/25/2014 17:46",
 		"scrollDownBy:" : "SeanDeNigris 9/17/2014 23:16",
 		"scrollLeftBy:" : "SeanDeNigris 9/25/2014 11:55",
 		"scrollRightBy:" : "SeanDeNigris 9/17/2014 23:06",

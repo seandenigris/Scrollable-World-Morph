@@ -1,4 +1,4 @@
-as yet unclassified
+scrolling
 scrollLeftBy: anInteger
 
 	self submorphsDo: [ :e | e left: e left + anInteger ].

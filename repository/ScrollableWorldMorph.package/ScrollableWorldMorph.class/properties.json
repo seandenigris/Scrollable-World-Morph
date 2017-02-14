@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "SeanDeNigris 9/25/2014 15:58",
 	"instvars" : [
-		"viewport" ],
+		"viewport",
+		"isMouseScrolling" ],
 	"name" : "ScrollableWorldMorph",
 	"pools" : [
 		 ],

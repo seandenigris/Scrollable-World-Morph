@@ -1,4 +1,4 @@
-as yet unclassified
+scrolling
 scrollRightBy: anInteger
 
 	self scrollLeftBy: anInteger negated
