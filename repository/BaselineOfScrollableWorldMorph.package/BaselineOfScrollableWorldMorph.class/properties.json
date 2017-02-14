@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfScrollableWorldMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfScrollableWorldMorph",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
