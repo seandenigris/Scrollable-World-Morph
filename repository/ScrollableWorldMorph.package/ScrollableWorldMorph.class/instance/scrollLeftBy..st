@@ -1,5 +1,5 @@
 scrolling
 scrollLeftBy: anInteger
 
-	self submorphsDo: [ :e | e left: e left + anInteger ].
+	self submorphsDo: [ :e | e selfWorldScrolledLeftBy: anInteger ].
 	self changed
